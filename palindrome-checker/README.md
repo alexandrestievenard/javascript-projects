@@ -4,4 +4,4 @@ A simple web application that checks whether a given word or sentence is a palin
 
 # image
 
-![Palindrome Checker Screenshot](images/palindrome.png)
+![Palindrome Checker Screenshot](images/image.png)
